@@ -1,1 +1,1 @@
-https://github.com/Elen-ok/posmotri-v-okno-fd/new/main?filename=README.md
+https://github.com/Elen-ok/posmotri-v-okno-fd/blob/main/README.md
