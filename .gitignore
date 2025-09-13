@@ -1,0 +1,41 @@
+# Системные файлы Windows
+NTUSER.DAT*
+ntuser.*
+*.regtrans-ms
+*.blf
+*.LOG1
+*.LOG2
+
+# Директории Windows
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Главное меню/
+Мои документы/
+Шаблоны/
+
+# Другие системные директории
+Contacts/
+Saved Games/
+Searches/
+Links/
+Music/
+Videos/
+Favorites/
+Downloads/
+
+# Временные файлы
+.DS_Store
+Thumbs.db
+
+# Директории приложений
+.config/
+.ssh/
+Doctor Web/
+OneDrive/
+PCManger/
