@@ -1,3 +1,11 @@
+# Системные файлы
+.bash_history
+.lesshst
+.viminfo
+.viminfo.tmp
+.viminfz.tmp
+.vscode/
+
 # Системные файлы Windows
 NTUSER.DAT*
 ntuser.*
@@ -7,35 +15,7 @@ ntuser.*
 *.LOG2
 
 # Директории Windows
-AppData/
-Application Data/
-Cookies/
-Local Settings/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
+Documents/Мои видеозаписи/
+Documents/мои рисунки/
+Documents/Моя музыка/
 Главное меню/
-Мои документы/
-Шаблоны/
-
-# Другие системные директории
-Contacts/
-Saved Games/
-Searches/
-Links/
-Music/
-Videos/
-Favorites/
-Downloads/
-
-# Временные файлы
-.DS_Store
-Thumbs.db
-
-# Директории приложений
-.config/
-.ssh/
-Doctor Web/
-OneDrive/
-PCManger/
